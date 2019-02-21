@@ -9,8 +9,11 @@ To make good progress in your programming task, you need to test your work as ea
 The last important point is how you express your thoughts as code. In the same way that you can express the same argument in different ways in a normal English essay, you can express the same problem-solving method in different ways in code. Try for brevity. The lines that you don’t write are the lines where you can be sure that the don’t have bugs. Don’t be afraid to Google for idiomatic ways of doing the things you’d like to do (after you tried doing them yourself!). Remember that you don’t write the program for the computer, you write it for other humans (maybe a future you!). Choose names that explain things, add comments where these names don’t suffice. Never comment on what the code is doing, only write comments that explain why.
 
 https://medium.com/@jlberger/a-beginners-guide-to-programming-a9c161e620fa
+
 https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-version-98bea197a411
+## Java Installation And IDE.
 https://www.youtube.com/watch?v=NZ38tlhtQgw
+
 https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics-of-command-prompt-java-file-compilation-and-run-on-740bb00e6c90
 
 http://www.programmingbasics.org/en/beginner/gettingstarted.html
