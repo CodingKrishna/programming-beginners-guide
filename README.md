@@ -15,10 +15,21 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 https://www.youtube.com/watch?v=NZ38tlhtQgw
 
 https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics-of-command-prompt-java-file-compilation-and-run-on-740bb00e6c90
-# Variables 
-A Variable is a symbol for a number we don't know yet. It is usually a letter like x or y.
 
+# Variables in Math
+A Variable is a symbol for a number we don't know yet. It is usually a letter like x or y.
 https://www.mathsisfun.com/algebra/definitions.html
+https://www.khanacademy.org/math/algebra/introduction-to-algebra/alg1-intro-to-variables/v/what-is-a-variable
+
+
+# Operators in Math
+A symbol (such as +, −, ×, etc) that shows an operation
+https://www.mathsisfun.com/definitions/operator.html
+https://www.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-intro-equations/v/variables-expressions-and-equations
+
+
+# Equation in Math
+
 
 # Introductin to JavaScript.
 http://www.programmingbasics.org/en/beginner/gettingstarted.html
