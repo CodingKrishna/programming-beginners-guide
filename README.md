@@ -18,13 +18,7 @@ https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics
 
 https://www.youtube.com/watch?v=ppPZziYJMhc&list=PLlli2-AuOTknYkqw-bZ_lDblJOydiaMYy&index=9
 
-# Variables in Math
-A Variable is a symbol for a number we don't know yet. It is usually a letter like x or y.
-https://www.mathsisfun.com/algebra/definitions.html
-
-https://www.khanacademy.org/math/algebra/introduction-to-algebra/alg1-intro-to-variables/v/what-is-a-variable
-
-[a relative link](variables.md)
+# Variables in Math [a relative link](variables.md)
 
 # Operators in Math
 A symbol (such as +, −, ×, etc) that shows an operation
