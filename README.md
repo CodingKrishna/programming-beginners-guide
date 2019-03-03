@@ -18,8 +18,4 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 
 [Operators](operators.md)
 
-
-# Introductin to JavaScript.
-http://www.programmingbasics.org/en/beginner/gettingstarted.html
-
-
+[Introduction to JavaScript](js-intro.md)
