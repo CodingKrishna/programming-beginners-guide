@@ -11,13 +11,7 @@ The last important point is how you express your thoughts as code. In the same w
 https://medium.com/@jlberger/a-beginners-guide-to-programming-a9c161e620fa
 
 https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-version-98bea197a411
-## Java Installation And IDE Eclipse setup.
-https://www.youtube.com/watch?v=NZ38tlhtQgw
-
-https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics-of-command-prompt-java-file-compilation-and-run-on-740bb00e6c90
-
-https://www.youtube.com/watch?v=ppPZziYJMhc&list=PLlli2-AuOTknYkqw-bZ_lDblJOydiaMYy&index=9
-
+[IDE](ide.md)
 [Variables](variables.md)
 
 # Operators in Math
