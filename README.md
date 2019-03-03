@@ -18,7 +18,7 @@ https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics
 
 https://www.youtube.com/watch?v=ppPZziYJMhc&list=PLlli2-AuOTknYkqw-bZ_lDblJOydiaMYy&index=9
 
-# Variables in Math [a relative link](variables.md)
+[Variables](variables.md)
 
 # Operators in Math
 A symbol (such as +, −, ×, etc) that shows an operation
