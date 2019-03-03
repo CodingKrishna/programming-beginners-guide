@@ -11,17 +11,12 @@ The last important point is how you express your thoughts as code. In the same w
 https://medium.com/@jlberger/a-beginners-guide-to-programming-a9c161e620fa
 
 https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-version-98bea197a411
+
 [IDE](ide.md)
+
 [Variables](variables.md)
 
-# Operators in Math
-A symbol (such as +, −, ×, etc) that shows an operation
-https://www.mathsisfun.com/definitions/operator.html
-
-https://www.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-intro-equations/v/variables-expressions-and-equations
-
-
-# Equation in Math
+[Operators](operators.md)
 
 
 # Introductin to JavaScript.
