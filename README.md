@@ -24,6 +24,7 @@ https://www.mathsisfun.com/algebra/definitions.html
 
 https://www.khanacademy.org/math/algebra/introduction-to-algebra/alg1-intro-to-variables/v/what-is-a-variable
 
+[a relative link](variables.md)
 
 # Operators in Math
 A symbol (such as +, −, ×, etc) that shows an operation
