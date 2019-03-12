@@ -20,7 +20,7 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 
 [User Defined Data Types](user-defined-data-types.md)
 
-## OOP's 
+## OOP's Programming.
   * [Class & Object](class.md) 
   * [Constructor](constructor.md) 
   * [Method Overloading](method-overloading.md) 
@@ -34,8 +34,6 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
   * [Interface](interface.md)
   * [Exceptions](exceptions.md)
 
-
-
-
-[Introduction to JavaScript](js-intro.md)
+## Functional Programming.
+  * [Introduction to JavaScript](js-intro.md)
 
