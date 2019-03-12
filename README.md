@@ -20,5 +20,9 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 
 [User Defined Data Types](user-defined-data-types.md)
 
+## OOP's 
+  * [Class & Object](class.md) 
+  * [Constructor](constructor.md) 
+
 [Introduction to JavaScript](js-intro.md)
 
