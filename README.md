@@ -30,6 +30,7 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
   * [Abstraction & Encaptulation](abstraction-encaptulation.md) 
   * [Inheritance](inheritance.md)
   * [Method Overriding](method-overriding.md)
+  * [Polymorphism](polymorphism.md)
   * [Interface](interface.md)
   * [Exceptions](exceptions.md)
 
