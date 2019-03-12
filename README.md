@@ -36,7 +36,8 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 
 ## Functional Programming.
   * [JavaScript](https://javascript.info/)
-
+  * [Intro to FP](https://github.com/hemanth/functional-programming-jargon)
+  * [FP indetailed](https://github.com/getify/Functional-Light-JS)
 
 # HTML & CSS
   * [HTML](https://www.w3schools.com/html/default.asp)
