@@ -23,6 +23,16 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 ## OOP's 
   * [Class & Object](class.md) 
   * [Constructor](constructor.md) 
+  * [Method Overloading](methodoverloading.md) 
+  * [This Keyword](this-keyword.md)
+  * [Static](static-keyword.md) 
+  * [Final](static-keyword.md)
+  * [Abstraction & Encaptulation](abstraction-encaptulation.md) 
+  * [Inheritance](inheritance.md)
+  * [Interface](interface.md)
+
+
+
 
 [Introduction to JavaScript](js-intro.md)
 
