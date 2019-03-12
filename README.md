@@ -35,5 +35,5 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
   * [Exceptions](exceptions.md)
 
 ## Functional Programming.
-  * [Introduction to JavaScript](js-intro.md)
+  * [JavaScript](https://javascript.info/)
 
