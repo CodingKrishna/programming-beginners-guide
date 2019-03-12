@@ -18,4 +18,7 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 
 [Operators](operators.md)
 
+[User Defined Data Types](user-defined-data-types.md)
+
 [Introduction to JavaScript](js-intro.md)
+
