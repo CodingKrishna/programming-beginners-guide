@@ -37,3 +37,13 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
 ## Functional Programming.
   * [JavaScript](https://javascript.info/)
 
+
+# HTML & CSS
+  * [HTML](https://www.w3schools.com/html/default.asp)
+  * [CSS](https://www.w3schools.com/css/default.asp)
+  * [Page Layouts Using css ](http://learnlayout.com/)
+  * [CSS Tricks ](https://css-tricks.com/guides/layout/)
+  * [Quick View of CSS Props ](https://www.quackit.com/css/tutorial/)
+  
+  
+ 
