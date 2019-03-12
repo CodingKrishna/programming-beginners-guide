@@ -29,6 +29,7 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
   * [Final](final-keyword.md)
   * [Abstraction & Encaptulation](abstraction-encaptulation.md) 
   * [Inheritance](inheritance.md)
+  * [Method Overriding](method-overriding.md)
   * [Interface](interface.md)
 
 
