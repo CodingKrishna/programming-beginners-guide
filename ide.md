@@ -1,6 +1,4 @@
-#IDE
-
-## Java Installation And IDE Eclipse setup.
+## Java Installation And Eclipse IDE setup.
 https://www.youtube.com/watch?v=NZ38tlhtQgw
 
 https://medium.com/@andrii.bibik.dev/tutorial-on-how-to-install-java-some-basics-of-command-prompt-java-file-compilation-and-run-on-740bb00e6c90
