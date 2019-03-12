@@ -31,6 +31,7 @@ https://medium.com/fbdevclagos/a-beginners-guide-to-software-development-naija-v
   * [Inheritance](inheritance.md)
   * [Method Overriding](method-overriding.md)
   * [Interface](interface.md)
+  * [Exceptions](exceptions.md)
 
 
 
